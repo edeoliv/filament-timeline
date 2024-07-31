@@ -1,9 +1,9 @@
 # This is my package filament-timeline
 
-[![Latest Version on Packagist](https://img.shields.io/packagist/v/saade/filament-timeline.svg?style=flat-square)](https://packagist.org/packages/saade/filament-timeline)
-[![GitHub Tests Action Status](https://img.shields.io/github/actions/workflow/status/saade/filament-timeline/run-tests.yml?branch=main&label=tests&style=flat-square)](https://github.com/saade/filament-timeline/actions?query=workflow%3Arun-tests+branch%3Amain)
-[![GitHub Code Style Action Status](https://img.shields.io/github/actions/workflow/status/saade/filament-timeline/fix-php-code-style-issues.yml?branch=main&label=code%20style&style=flat-square)](https://github.com/saade/filament-timeline/actions?query=workflow%3A"Fix+PHP+code+style+issues"+branch%3Amain)
-[![Total Downloads](https://img.shields.io/packagist/dt/saade/filament-timeline.svg?style=flat-square)](https://packagist.org/packages/saade/filament-timeline)
+[![Latest Version on Packagist](https://img.shields.io/packagist/v/edeoliv/filament-timeline.svg?style=flat-square)](https://packagist.org/packages/edeoliv/filament-timeline)
+[![GitHub Tests Action Status](https://img.shields.io/github/actions/workflow/status/edeoliv/filament-timeline/run-tests.yml?branch=main&label=tests&style=flat-square)](https://github.com/edeoliv/filament-timeline/actions?query=workflow%3Arun-tests+branch%3Amain)
+[![GitHub Code Style Action Status](https://img.shields.io/github/actions/workflow/status/edeoliv/filament-timeline/fix-php-code-style-issues.yml?branch=main&label=code%20style&style=flat-square)](https://github.com/edeoliv/filament-timeline/actions?query=workflow%3A"Fix+PHP+code+style+issues"+branch%3Amain)
+[![Total Downloads](https://img.shields.io/packagist/dt/edeoliv/filament-timeline.svg?style=flat-square)](https://packagist.org/packages/edeoliv/filament-timeline)
 
 
 
@@ -14,7 +14,7 @@ This is where your description should go. Limit it to a paragraph or two. Consid
 You can install the package via composer:
 
 ```bash
-composer require saade/filament-timeline
+composer require edeoliv/filament-timeline
 ```
 
 You can publish and run the migrations with:
@@ -46,8 +46,8 @@ return [
 ## Usage
 
 ```php
-$filamentTimeline = new Saade\FilamentTimeline();
-echo $filamentTimeline->echoPhrase('Hello, Saade!');
+$filamentTimeline = new Edeoliv\FilamentTimeline();
+echo $filamentTimeline->echoPhrase('Hello, Olivtradet!');
 ```
 
 ## Testing

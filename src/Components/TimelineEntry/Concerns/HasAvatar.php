@@ -1,9 +1,9 @@
 <?php
 
-namespace Saade\FilamentTimeline\Components\TimelineEntry\Concerns;
+namespace Edeoliv\FilamentTimeline\Components\TimelineEntry\Concerns;
 
 use Closure;
-use Saade\FilamentTimeline\Enums\Size;
+use Edeoliv\FilamentTimeline\Enums\Size;
 
 trait HasAvatar
 {

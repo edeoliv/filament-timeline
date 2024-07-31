@@ -1,6 +1,6 @@
 <?php
 
-namespace Saade\FilamentTimeline\Enums;
+namespace Edeoliv\FilamentTimeline\Enums;
 
 enum Size
 {

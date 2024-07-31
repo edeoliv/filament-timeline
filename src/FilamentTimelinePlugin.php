@@ -1,6 +1,6 @@
 <?php
 
-namespace Saade\FilamentTimeline;
+namespace Edeoliv\FilamentTimeline;
 
 use Filament\Contracts\Plugin;
 use Filament\Panel;

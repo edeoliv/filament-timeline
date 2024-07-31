@@ -1,6 +1,6 @@
 <?php
 
-namespace Saade\FilamentTimeline\Components\TimelineEntry\Concerns;
+namespace Edeoliv\FilamentTimeline\Components\TimelineEntry\Concerns;
 
 use Filament\Infolists\Components\Concerns\HasColor as BaseHasColor;
 

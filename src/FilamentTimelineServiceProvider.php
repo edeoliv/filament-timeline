@@ -1,6 +1,6 @@
 <?php
 
-namespace Saade\FilamentTimeline;
+namespace Edeoliv\FilamentTimeline;
 
 use Spatie\LaravelPackageTools\Package;
 use Spatie\LaravelPackageTools\PackageServiceProvider;

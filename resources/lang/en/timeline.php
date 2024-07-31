@@ -1,6 +1,6 @@
 <?php
 
-// translations for Saade/FilamentTimeline
+// translations for Edeoliv/FilamentTimeline
 return [
     //
 ];

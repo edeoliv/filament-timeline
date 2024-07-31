@@ -1,6 +1,6 @@
 <?php
 
-namespace Saade\FilamentTimeline\Components;
+namespace Edeoliv\FilamentTimeline\Components;
 
 use Filament\Infolists\Components\Entry;
 use Illuminate\Database\Eloquent\Model;

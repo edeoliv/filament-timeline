@@ -1,6 +1,6 @@
 @php
     use Filament\Infolists\Components\Component;
-    use Saade\FilamentTimeline\Components\TimelineEntry\Marker;
+    use Edeoliv\FilamentTimeline\Components\TimelineEntry\Marker;
 
     $marker = $getComponent(fn (Component $component) => $component instanceof Marker);
     $components = array_filter($getComponents(), fn (Component $component) => ! $component instanceof Marker);
@@ -11,8 +11,8 @@
 
     <div class="relative flex items-start space-x-4">
         {{ $marker }}
-        
-        <div class="flex-1 min-w-0">    
+
+        <div class="flex-1 min-w-0">
             @foreach ($components as $component)
                 {{ $component }}
             @endforeach

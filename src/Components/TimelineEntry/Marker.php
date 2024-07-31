@@ -1,6 +1,6 @@
 <?php
 
-namespace Saade\FilamentTimeline\Components\TimelineEntry;
+namespace Edeoliv\FilamentTimeline\Components\TimelineEntry;
 
 use Filament\Infolists\Components\Entry;
 use Filament\Support\Concerns\CanBeContained;

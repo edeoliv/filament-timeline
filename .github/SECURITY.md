@@ -1,3 +1,3 @@
 # Security Policy
 
-If you discover any security related issues, please email saade@outlook.com.br instead of using the issue tracker.
+If you discover any security related issues, please email deoliveira.elias.eus@gmail.com instead of using the issue tracker.

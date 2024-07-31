@@ -1,5 +1,5 @@
 @php
-    use Saade\FilamentTimeline\Enums\Size;
+    use Edeoliv\FilamentTimeline\Enums\Size;
 @endphp
 
 @props([

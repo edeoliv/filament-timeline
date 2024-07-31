@@ -1,10 +1,10 @@
 <?php
 
-namespace Saade\FilamentTimeline\Components\TimelineEntry\Concerns;
+namespace Edeoliv\FilamentTimeline\Components\TimelineEntry\Concerns;
 
 use Closure;
 use Filament\Infolists\Components\Concerns\HasIcon as BaseHasIcon;
-use Saade\FilamentTimeline\Enums\Size;
+use Edeoliv\FilamentTimeline\Enums\Size;
 
 trait HasIcon
 {
